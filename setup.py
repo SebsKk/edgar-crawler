@@ -21,7 +21,7 @@ setup(
         "click==7.0",
         "cssutils==1.0.2",
         "numpy==1.24.4",
-        "lxml==4.9.1",
+        "lxml==4.9.2",
         "pandas==1.5.3",
         "requests==2.31.0",
         "tqdm==4.42.1",
